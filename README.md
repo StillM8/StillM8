@@ -1,66 +1,114 @@
-<h1 align="center">hey, i'm Muhammad 👋</h1>
+<div align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&duration=3500&pause=800&color=36BCF7&center=true&vCenter=true&multiline=true&repeat=true&width=500&height=70&lines=%F0%9F%91%8B+hey%2C+i'm+Muhammad;%F0%9F%93%9A+student+from+Pakistan;%F0%9F%90%8D+python+dev;%E2%9A%A1+elixir+curious;%F0%9F%9A%80+go+dabbler" alt="Typing SVG" />
+</div>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=3000&pause=1000&color=36BCF7&center=true&vCenter=true&multiline=true&repeat=true&width=435&lines=student+%F0%9F%8F%93;python+dev+%F0%9F%90%8D;elixir+curious+%E2%9A%A1;go+dabbler+%F0%9F%9A%80" alt="Typing SVG" />
+  <b><code>StillM8</code></b> — driven by AI, building things · Rawalpindi, Pakistan
+  <br/>
+  <sub><a href="mailto:Me@StillM8.com">Me@StillM8.com</a> · <a href="https://StillM8.com">StillM8.com</a></sub>
 </p>
 
-<p align="center">
-  <em>driven by AI &middot; building things &middot; pakistan</em>
-</p>
+<br/>
 
 ---
 
-### what i mess with
+### 🛠️ tech i use
 
 <p align="center">
-  <img src="https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white" alt="Python" />
-  <img src="https://img.shields.io/badge/Elixir-4B275F?style=flat&logo=elixir&logoColor=white" alt="Elixir" />
-  <img src="https://img.shields.io/badge/Go-00ADD8?style=flat&logo=go&logoColor=white" alt="Go" />
-  <img src="https://img.shields.io/badge/Linux-FCC624?style=flat&logo=linux&logoColor=black" alt="Linux" />
-  <img src="https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white" alt="Git" />
+  <a href="https://python.org"><img src="https://skillicons.dev/icons?i=python" alt="Python" title="Python" /></a>
+  <a href="https://elixir-lang.org"><img src="https://skillicons.dev/icons?i=elixir" alt="Elixir" title="Elixir" /></a>
+  <a href="https://go.dev"><img src="https://skillicons.dev/icons?i=go" alt="Go" title="Go" /></a>
+  <a href="https://git-scm.com"><img src="https://skillicons.dev/icons?i=git" alt="Git" title="Git" /></a>
+  <a href="https://www.linux.org"><img src="https://skillicons.dev/icons?i=linux" alt="Linux" title="Linux" /></a>
+  <a href="https://github.com"><img src="https://skillicons.dev/icons?i=github" alt="GitHub" title="GitHub" /></a>
 </p>
+
+<p align="center">
+  <code>Python</code> main · <code>Elixir</code> learning · <code>Go</code> dabbling
+</p>
+
+<br/>
 
 ---
 
-### things i've built
+### 📦 things i've built
 
 <table>
   <tr>
-    <td>
-      <a href="https://github.com/StillM8/CommandCode-Proxy"><b>CommandCode-Proxy</b></a><br/>
-      <sub>OpenAI-compatible API proxy for CommandCode subscriptions</sub><br/>
-      <img src="https://img.shields.io/badge/Go-00ADD8?style=flat&logo=go&logoColor=white" />
+    <td width="50%">
+      <h3 align="center">CommandCode-Proxy</h3>
+      <p align="center">
+        <a href="https://github.com/StillM8/CommandCode-Proxy" title="Repo">
+          <img src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=StillM8&repo=CommandCode-Proxy&theme=dark&bg_color=0d1117&hide_border=true&show_icons=true" alt="CommandCode-Proxy" />
+        </a>
+        <br/>
+        <sub>OpenAI-compatible API proxy for CommandCode</sub>
+      </p>
     </td>
-    <td>
-      <a href="https://github.com/StillM8/Discord-Mistral-Chatbot"><b>Discord-Mistral-Chatbot</b></a><br/>
-      <sub>Free Mistral-powered chatbot for Discord</sub><br/>
-      <img src="https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white" />
+    <td width="50%">
+      <h3 align="center">Discord-Mistral-Chatbot</h3>
+      <p align="center">
+        <a href="https://github.com/StillM8/Discord-Mistral-Chatbot" title="Repo">
+          <img src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=StillM8&repo=Discord-Mistral-Chatbot&theme=dark&bg_color=0d1117&hide_border=true&show_icons=true" alt="Discord-Mistral-Chatbot" />
+        </a>
+        <br/>
+        <sub>Free Mistral-powered Discord chatbot</sub>
+      </p>
     </td>
   </tr>
   <tr>
-    <td>
-      <a href="https://github.com/StillM8/anything.compare"><b>anything.compare</b></a><br/>
-      <sub>Compare anything on the internet</sub><br/>
-      <img src="https://img.shields.io/badge/Elixir-4B275F?style=flat&logo=elixir&logoColor=white" />
+    <td width="50%">
+      <h3 align="center">anything.compare</h3>
+      <p align="center">
+        <a href="https://github.com/StillM8/anything.compare" title="Repo">
+          <img src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=StillM8&repo=anything.compare&theme=dark&bg_color=0d1117&hide_border=true&show_icons=true" alt="anything.compare" />
+        </a>
+        <br/>
+        <sub>Compare anything on the internet</sub>
+      </p>
     </td>
-    <td>
-      <a href="https://github.com/StillM8/Steno-QWERTY-rpi-keyboard"><b>Steno-QWERTY-rpi-keyboard</b></a><br/>
-      <sub>Custom steno keyboard with KMK firmware on RPi Pico</sub><br/>
-      <img src="https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white" />
+    <td width="50%">
+      <h3 align="center">Steno-QWERTY-rpi-keyboard</h3>
+      <p align="center">
+        <a href="https://github.com/StillM8/Steno-QWERTY-rpi-keyboard" title="Repo">
+          <img src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=StillM8&repo=Steno-QWERTY-rpi-keyboard&theme=dark&bg_color=0d1117&hide_border=true&show_icons=true" alt="Steno-QWERTY-rpi-keyboard" />
+        </a>
+        <br/>
+        <sub>Custom steno keyboard on RPi Pico</sub>
+      </p>
     </td>
   </tr>
 </table>
 
+<br/>
+
 ---
 
+### 📊 stats
+
 <p align="center">
-  <a href="https://github.com/StillM8"><img src="https://img.shields.io/badge/GitHub-181717?style=flat&logo=github&logoColor=white" alt="GitHub" /></a>
-  <a href="https://x.com/stillm8_"><img src="https://img.shields.io/badge/X-000000?style=flat&logo=x&logoColor=white" alt="X" /></a>
-  <a href="https://youtube.com/@StillM8"><img src="https://img.shields.io/badge/YouTube-FF0000?style=flat&logo=youtube&logoColor=white" alt="YouTube" /></a>
-  <a href="https://StillM8.com"><img src="https://img.shields.io/badge/Website-000000?style=flat&logo=googlechrome&logoColor=white" alt="Website" /></a>
-  <a href="mailto:Me@StillM8.com"><img src="https://img.shields.io/badge/Email-D14836?style=flat&logo=gmail&logoColor=white" alt="Email" /></a>
+  <a href="https://github.com/StillM8">
+    <img src="https://github-stats.vercel.app/api?username=StillM8&show_icons=true&theme=dark&hide_border=true&bg_color=0d1117" height="165" alt="GitHub Stats" />
+  </a>
+  <a href="https://github.com/StillM8">
+    <img src="https://streak-stats.demolab.com?user=StillM8&theme=dark&hide_border=true&background=0D1117" height="165" alt="GitHub Streak" />
+  </a>
+</p>
+
+<br/>
+
+---
+
+### 🌐 connect
+
+<p align="center">
+  <a href="https://github.com/StillM8"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" /></a>
+  <a href="https://x.com/stillm8_"><img src="https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white" alt="X" /></a>
+  <a href="https://youtube.com/@StillM8"><img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" alt="YouTube" /></a>
+  <a href="https://StillM8.com"><img src="https://img.shields.io/badge/StillM8.com-000000?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Website" /></a>
+  <a href="mailto:Me@StillM8.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /></a>
 </p>
 
 <p align="center">
-  <img src="https://github-stats.vercel.app/api?username=StillM8&show_icons=true&theme=dark&hide_border=true" alt="StillM8's GitHub Stats" />
+  <img src="https://komarev.com/ghpvc/?username=StillM8&color=36BCF7&style=flat-square&label=profile+views" alt="Profile views" />
 </p>
