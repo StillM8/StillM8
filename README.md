@@ -46,16 +46,16 @@
 
 <p align="center">
   <a href="https://github.com/StillM8">
-    <img src="https://github-stats.vercel.app/api?username=StillM8&show_icons=true&theme=dark&hide_border=true" height="150" alt="GitHub Stats" />
+    <img src="https://github-stats.vercel.app/api?username=StillM8&show_icons=true&theme=transparent&hide_border=true&text_color=c9d1d9&title_color=58A6FF&icon_color=58A6FF" height="150" alt="GitHub Stats" />
   </a>
   <a href="https://github.com/StillM8">
-    <img src="https://streak-stats.demolab.com?user=StillM8&theme=dark&hide_border=true" height="150" alt="GitHub Streak" />
+    <img src="https://streak-stats.demolab.com?user=StillM8&theme=transparent&hide_border=true" height="150" alt="GitHub Streak" />
   </a>
 </p>
 
 <p align="center">
   <a href="https://github.com/StillM8">
-    <img src="https://github-readme-activity-graph.vercel.app/graph?username=StillM8&theme=github-dark&hide_border=true&bg_color=0D1117&color=58A6FF&line=58A6FF&point=FFFFFF&area=true" width="95%" alt="Activity Graph" />
+    <img src="https://github-readme-activity-graph.vercel.app/graph?username=StillM8&theme=transparent&hide_border=true&color=58A6FF&line=58A6FF&point=FFFFFF&area=true" width="95%" alt="Activity Graph" />
   </a>
 </p>
 
