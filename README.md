@@ -46,10 +46,10 @@
 
 <p align="center">
   <a href="https://github.com/StillM8">
-    <img src="https://github-stats.vercel.app/api?username=StillM8&show_icons=true&theme=transparent&hide_border=true&text_color=c9d1d9&title_color=58A6FF&icon_color=58A6FF" height="150" alt="GitHub Stats" />
+    <img src="https://github-stats.vercel.app/api?username=StillM8&show_icons=true&theme=transparent&hide_border=true&text_color=c9d1d9&title_color=58A6FF&icon_color=58A6FF" height="195" alt="GitHub Stats" />
   </a>
   <a href="https://github.com/StillM8">
-    <img src="https://streak-stats.demolab.com?user=StillM8&theme=transparent&hide_border=true" height="150" alt="GitHub Streak" />
+    <img src="https://streak-stats.demolab.com?user=StillM8&theme=transparent&hide_border=true" height="195" alt="GitHub Streak" />
   </a>
 </p>
 
@@ -78,6 +78,4 @@
   <a href="mailto:Me@StillM8.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /></a>
 </p>
 
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=StillM8&color=58A6FF&style=flat-square&label=profile+views" alt="Profile views" />
-</p>
+
