@@ -53,13 +53,11 @@
 
 ---
 
-### contribution graph
+### where i spend my time
 
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/StillM8/StillM8/output/github-contribution-grid-snake-dark.svg" />
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/StillM8/StillM8/output/github-contribution-grid-snake.svg" />
-  <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/StillM8/StillM8/output/github-contribution-grid-snake.svg" />
-</picture>
+<p align="center">
+  <img src="https://github-stats.vercel.app/api/top-langs/?username=StillM8&hide=html,css&layout=compact&theme=dark&hide_border=true" alt="Top Languages" />
+</p>
 
 ---
 
@@ -72,5 +70,5 @@
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=StillM8&show_icons=true&theme=transparent&hide_border=true&bg_color=0d1117&title_color=36BCF7&icon_color=36BCF7&text_color=c9d1d9" alt="StillM8's GitHub Stats" />
+  <img src="https://github-stats.vercel.app/api?username=StillM8&show_icons=true&theme=dark&hide_border=true" alt="StillM8's GitHub Stats" />
 </p>
