@@ -12,7 +12,7 @@
 
 ---
 
-### 🛠️ tech i use
+### 🛠️ Tech i use
 
 <p align="center">
   <a href="https://python.org"><img src="https://skillicons.dev/icons?i=python" alt="Python" title="Python" /></a>
@@ -31,7 +31,7 @@
 
 ---
 
-### 📦 things i've built
+### 📦 Things i've built:
 
 - **[CommandCode-Proxy](https://github.com/StillM8/CommandCode-Proxy)** — OpenAI-compatible API proxy for CommandCode subscriptions `Go`
 - **[Discord-Mistral-Chatbot](https://github.com/StillM8/Discord-Mistral-Chatbot)** — Free Mistral-powered chatbot for Discord `Python`
@@ -41,8 +41,6 @@
 <br/>
 
 ---
-
-### 📊 stats
 
 <p align="center">
   <a href="https://github.com/StillM8">
