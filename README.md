@@ -46,7 +46,7 @@
 
 <p align="center">
   <a href="https://github.com/StillM8">
-    <img src="https://github-stats.vercel.app/api?username=StillM8&show_icons=true&theme=transparent&hide_border=true&text_color=c9d1d9&title_color=58A6FF&icon_color=58A6FF" height="195" alt="GitHub Stats" />
+    <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=StillM8&theme=github_dark" alt="GitHub Stats" />
   </a>
   <a href="https://github.com/StillM8">
     <img src="https://streak-stats.demolab.com?user=StillM8&theme=transparent&hide_border=true" height="195" alt="GitHub Streak" />
