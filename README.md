@@ -55,7 +55,7 @@
 
 <p align="center">
   <a href="https://github.com/StillM8">
-    <img src="https://github-readme-activity-graph.vercel.app/graph?username=StillM8&theme=transparent&hide_border=true&color=58A6FF&line=58A6FF&point=FFFFFF&area=true" width="95%" alt="Activity Graph" />
+    <img src="https://github-readme-activity-graph.vercel.app/graph?username=StillM8&theme=github-dark&hide_border=true&color=58A6FF&line=58A6FF&point=FFFFFF&area=true" width="95%" alt="Activity Graph" />
   </a>
 </p>
 
