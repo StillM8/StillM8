@@ -53,14 +53,6 @@
 
 ---
 
-### where i spend my time
-
-<p align="center">
-  <img src="https://github-stats.vercel.app/api/top-langs/?username=StillM8&hide=html,css&layout=compact&theme=dark&hide_border=true" alt="Top Languages" />
-</p>
-
----
-
 <p align="center">
   <a href="https://github.com/StillM8"><img src="https://img.shields.io/badge/GitHub-181717?style=flat&logo=github&logoColor=white" alt="GitHub" /></a>
   <a href="https://x.com/stillm8_"><img src="https://img.shields.io/badge/X-000000?style=flat&logo=x&logoColor=white" alt="X" /></a>
