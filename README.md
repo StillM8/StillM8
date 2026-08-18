@@ -20,8 +20,9 @@ A cross-platform TypeScript engine for **Red Alert 2**, **Yuri's Revenge**, and 
 - **[CommandCode-Proxy](https://github.com/StillM8/CommandCode-Proxy)** — OpenAI-compatible API proxy for CommandCode subscriptions · `Go`
 - **[anything.compare](https://github.com/StillM8/anything.compare)** — A website for comparing pretty much anything · `Elixir`
 - **[Steno-QWERTY-rpi-keyboard](https://github.com/StillM8/Steno-QWERTY-rpi-keyboard)** — Custom steno/QWERTY keyboard firmware for a Raspberry Pi Pico · `Python`
+- **[Discord-Toobox]([https://github.com/StillM8/Discord-Mistral-Chatbot](https://github.com/StillM8/discord-toolbox))** — A self-hostable Personal Discord helper · `Python`
 - **[Discord-Mistral-Chatbot](https://github.com/StillM8/Discord-Mistral-Chatbot)** — A self-hostable Mistral-powered Discord chatbot · `Python`
-
+- 
 ---
 
 ### I tend to work with
